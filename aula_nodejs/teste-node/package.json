@@ -1,0 +1,16 @@
+{
+  "name": "teste-node",
+  "version": "1.0.0",
+  "description": "aulas nodejs Alura",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonhy Silva",
+  "license": "ISC"
+}
