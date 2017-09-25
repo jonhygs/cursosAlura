@@ -1,3 +1,4 @@
+#aulas 1 e 2
 from dados import carregar_acessos
 from sklearn.naive_bayes import MultinomialNB
 

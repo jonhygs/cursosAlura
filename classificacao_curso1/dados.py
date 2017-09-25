@@ -1,5 +1,6 @@
 import csv
 
+#Aula 1 e 2
 def carregar_acessos():
 	X = []
 	Y = []
@@ -14,3 +15,4 @@ def carregar_acessos():
 		Y.append(int(comprou))
 
 	return X,Y
+
